@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CodeAnalysis": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    }
+  }
+}

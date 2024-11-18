@@ -7,7 +7,16 @@ This tool was created by RecursiveAI's "The Bobs" AI Agent. Check out [Recursive
 
 - Analyzes all text-based code files in a directory and its subdirectories
 - Generates detailed statistics about file sizes, line counts, and character counts
-- Groups statistics by file extension
+- Groups statistics by file extension and logical categories (source, markup, style, etc.)
+- Provides project structure insights and directory analysis
+- Calculates code complexity metrics and maintainability indicators
+- Generates distribution statistics and code-to-resource ratios
+- Provides automated insights and recommendations
+- Identifies potential code quality issues and patterns
+- Analyzes project structure and directory organization
+- Calculates statistical distributions and identifies outliers
+- Provides complexity metrics and maintainability indicators
+- Generates actionable recommendations for improvement
 - Excludes common non-code files and directories
 - Optional verbose mode for detailed per-file statistics
 - Outputs results in pretty-formatted JSON
